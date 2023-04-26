@@ -501,6 +501,16 @@
       }
     ],
     "cart": [],
-    "users":[]
+    "users":[
+      {
+        "id": 1,
+        "username": "omkar sorde",
+        "email": "omsorde123@gmail.com",
+        "password": "1234",
+        "country": "india",
+        "isMarried": false
+       
+      }
+    ]
   }
   
