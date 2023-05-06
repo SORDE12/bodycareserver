@@ -500,7 +500,53 @@
         "price1": 23.58
       }
     ],
-    "cart": [],
+    "cart": [
+      {
+        "user": "omsorde123@gmail.com",
+        "product": {
+          "id": 1,
+          "url": "https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.217/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw620a6a4e/hires/026248637.jpg?sh=400&q=75&yocs=o_s_",
+          "title": "MIDNIGHT AMBER GLOW",
+          "category": "Fine Fragrance Mist",
+          "des": "Mix & Match Full-Size: Buy 3, Get 3 Free or Buy 2, Get 1 Free",
+          "price": "17.50",
+          "ratings": 3.5,
+          "price1": 16.5
+        },
+        "qty": 1,
+        "id": 1
+      },
+      {
+        "user": "omsorde123@gmail.com",
+        "product": {
+          "id": 1,
+          "url": "https://cdn-fsly.yottaa.net/5d669b394f1bbf7cb77826ae/www.bathandbodyworks.com/v~4b.217/dw/image/v2/BBDL_PRD/on/demandware.static/-/Sites-master-catalog/default/dw620a6a4e/hires/026248637.jpg?sh=400&q=75&yocs=o_s_",
+          "title": "MIDNIGHT AMBER GLOW",
+          "category": "Fine Fragrance Mist",
+          "des": "Mix & Match Full-Size: Buy 3, Get 3 Free or Buy 2, Get 1 Free",
+          "price": "17.50",
+          "ratings": 3.5,
+          "price1": 16.5
+        },
+        "qty": 1,
+        "id": 2
+      },
+      {
+        "user": "omsorde123@gmail.com",
+        "product": {
+          "id": 6,
+          "url": "https://www.bathandbodyworks.in/on/demandware.static/-/Sites-bathandbody_master_catalog/default/dw91d118c2/large/026346730.jpg",
+          "title": "A Thousand Christmas Wishes",
+          "category": "Body_Lotion",
+          "des": "Mix & Match Full-Size: Buy 3, Get 3 Free or Buy 2, Get 1 Free",
+          "price": "25.50",
+          "ratings": 3.5,
+          "price1": 23.54
+        },
+        "qty": 1,
+        "id": 3
+      }
+    ],
     "users":[
       {
         "id": 1,
